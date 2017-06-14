@@ -1,1 +1,4 @@
 # soccerx
+
+## Collaborators
+ - Christian Vuerings
